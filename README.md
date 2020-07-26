@@ -2,8 +2,8 @@
 
 This is the q1 / q2 answers
 
-./q1-app
-./q2-app
+* ./q1-app
+* ./q2-app
 
 ## Getting Started
  
@@ -18,7 +18,9 @@ This is the q1 / q2 answers
 * checkout the source
 
 
-## Build
+## Build, Package and Test
+
+The following command will build, package and test the Application
 
 ```
 mvn clean package 
@@ -61,4 +63,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **[DOCHEV Dochko]
+**DOCHEV Dochko**
